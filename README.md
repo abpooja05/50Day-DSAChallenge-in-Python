@@ -21,5 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0204-count-primes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

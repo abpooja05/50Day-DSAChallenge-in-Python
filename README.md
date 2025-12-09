@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
 | [1480-running-sum-of-1d-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

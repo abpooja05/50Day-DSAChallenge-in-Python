@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [2413-smallest-even-multiple](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/2427-number-of-common-factors) |
 ## Number Theory
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -38,4 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

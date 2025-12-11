@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0283-move-zeroes) |
 ## Prefix Sum
@@ -56,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

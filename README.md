@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [2413-smallest-even-multiple](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/2413-smallest-even-multiple) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0283-move-zeroes) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
 | ------- |

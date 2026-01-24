@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0073-set-matrix-zeroes) |
@@ -139,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/abpooja05/50Day-DSAChallenge-in-Python/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
